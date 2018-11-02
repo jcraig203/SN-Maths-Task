@@ -1,0 +1,11 @@
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\obj\Debug\netcoreapp2.0\SN_Maths_Eval.csprojResolveAssemblyReference.cache
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\obj\Debug\netcoreapp2.0\SN_Maths_Eval.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\obj\Debug\netcoreapp2.0\SN_Maths_Eval.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\obj\Debug\netcoreapp2.0\SN_Maths_Eval.AssemblyInfo.cs
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\bin\Debug\netcoreapp2.0\SN_Maths_Eval.deps.json
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\bin\Debug\netcoreapp2.0\SN_Maths_Eval.runtimeconfig.json
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\bin\Debug\netcoreapp2.0\SN_Maths_Eval.runtimeconfig.dev.json
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\bin\Debug\netcoreapp2.0\SN_Maths_Eval.dll
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\bin\Debug\netcoreapp2.0\SN_Maths_Eval.pdb
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\obj\Debug\netcoreapp2.0\SN_Maths_Eval.dll
+C:\Users\James\source\repos\SN_Maths_Eval\SN_Maths_Eval\obj\Debug\netcoreapp2.0\SN_Maths_Eval.pdb
